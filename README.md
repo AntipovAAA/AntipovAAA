@@ -44,13 +44,15 @@
 <!-- [<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />](mailto:shakhansho.sabzaliev_2023@ucentralasia.org) -->
 <!-- [<img align="left" alt="CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces] -->
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
+[<img align="left" alt="Telegram" width="22px" src="https://yandex.ru/images/search?from=tabbar&img_url=http%3A%2F%2Fcdn.mypanel.link%2Fdo7r0s%2Fd9ac8a4xztxucx6a.png&lr=213&pos=0&rpt=simage&text=иконка%20телеграмм" />][hh]
+
 <!-- [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle] -->
 <!-- [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />][stackoverflow] -->
 ↙️
 <br>
 
 
-
+[Telegram]: https://t.me/Ansanez
 [linkedin]: https://www.linkedin.com/in/shukkkur/
 <!-- [whatsapp]: https://wa.me/79014077195 -->
 <!-- [instagram]: https://www.instagram.com/shukkkkkur/ -->
