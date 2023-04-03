@@ -7,7 +7,7 @@
 - ⚯ Looking to work on  ML/DL related projects..
 - 🛦 A flight licsense and my own plane is one of my dreams
 - ⫓  Superpower I wish I had: staying focused for more than 25 minutes
-- 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://shukkkur.github.io/myself)
+<!-- - 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://shukkkur.github.io/myself) -->
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight)  -->
 <!--  &hide=javascript,css,scss,html -->
@@ -52,14 +52,14 @@
 
 
 [linkedin]: https://www.linkedin.com/in/shukkkur/
-[whatsapp]: https://wa.me/79014077195
-[instagram]: https://www.instagram.com/shukkkkkur/
-[outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
+<!-- [whatsapp]: https://wa.me/79014077195 -->
+<!-- [instagram]: https://www.instagram.com/shukkkkkur/ -->
+<!-- [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org -->
 [codeforces]: https://codeforces.com/profile/Shukkkur
-[hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362
-[kaggle]: https://www.kaggle.com/shukkur
-[stackoverflow]: https://stackoverflow.com/users/12289244/sabzaliev-shohansho?tab=profile
-[vk]: https://vk.com/shukkkur
+<!-- [hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362 -->
+<!-- [kaggle]: https://www.kaggle.com/shukkur -->
+<!-- [stackoverflow]: https://stackoverflow.com/users/12289244/sabzaliev-shohansho?tab=profile -->
+<!-- [vk]: https://vk.com/shukkkur -->
 
 <!---
 shukkkur/shukkkur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
