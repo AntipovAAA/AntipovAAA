@@ -48,7 +48,7 @@
 
 <!-- [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle] -->
 <!-- [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />][stackoverflow] -->
-[image](https://user-images.githubusercontent.com/107802055/229386770-ef0fe34c-925f-49a4-a9d5-84cbd3d72707.png)
+![image](https://user-images.githubusercontent.com/107802055/229386770-ef0fe34c-925f-49a4-a9d5-84cbd3d72707.png)
 
 <br>
 
