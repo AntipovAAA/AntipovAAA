@@ -3,9 +3,9 @@
 
 
 - 🏂 I’m interested in Machine Learning, Deep Learning, Statistics and Snowboarding
-- 🤙 I’m currently learning deep learning and Algorithmic trading with Machine Learning
+- 🤙 I’m currently studying deep learning and Algorithmic trading with Machine Learning
 - ⚯ Looking to work on  ML/DL related projects
-- 🛦 A flight licsense and my own plane is one of my dreams
+- 🛦 A flight licsense and my own plane are in my list of dreams
 - ⫓  Superpower I wish I had: staying focused for more than 25 minutes
 <!-- - 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://shukkkur.github.io/myself) -->
 
